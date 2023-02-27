@@ -1,6 +1,7 @@
 # Prediction of CO2 Emission of Vehicles
 
 ![Project Image](cars.jpg)
+Image by <a href="https://pixabay.com/users/damoderndavinci-11004713/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4567915">Shaun</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4567915">Pixabay</a>
 
 > This project follows the steps and methodology of predicting CO2 emissions. The features used in training the model were derived from the fuel consumption ratings data from 2010 to 2014 in Canada. Additionally, the report also explores the features that best classify the vehicles in the data set. 
 
